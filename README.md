@@ -3,4 +3,4 @@
 
 <img src = "/assets/sss/ss1.png" width = "250">  <img src = "/assets/sss/ss3.png" width = "250">
 
-<img src = "/assets/sss/ss2.png" width = "250">
+<img src = "/assets/sss/ss2.png" width = "500">
