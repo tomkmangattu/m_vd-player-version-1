@@ -1,3 +1,3 @@
 
-<h1 style="background-color:powderblue;" >m_vd player</h1>
+<h1 style="color:powderblue;" >m_vd player</h1>
 
