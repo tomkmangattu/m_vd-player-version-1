@@ -6,7 +6,7 @@ import 'package:m_vd/file_manager/app_home/tab_item.dart';
 import 'package:m_vd/file_manager/cubit/localstorage_cubit.dart';
 import 'package:m_vd/file_manager/data/context_provider.dart';
 import 'package:m_vd/file_manager/home/home_screen.dart';
-import 'package:m_vd/file_manager/music/music_screen.dart';
+import 'package:m_vd/file_manager/music/screens/music_screen.dart';
 import 'package:m_vd/file_manager/settings/setting_page.dart';
 import 'package:m_vd/file_manager/video/cubit/thumbnail_cubit.dart';
 import 'package:m_vd/file_manager/video/screens/video_screen.dart';
