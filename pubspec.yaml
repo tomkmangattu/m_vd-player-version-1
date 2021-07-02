@@ -40,11 +40,19 @@ dependencies:
   path_provider: ^2.0.2
   provider: ^5.0.0
   wakelock: ^0.5.2
+  # audio_service: ^0.17.1
+  just_audio: ^0.8.0
   
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  flutter_native_splash: ^1.2.0
+
+flutter_native_splash:
+  color: '#1C1638'
+  image: assets/launcherIcon/ic_launcher.png
+  android: true
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
@@ -88,6 +96,9 @@ flutter:
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
   
+  assets:
+    - assets/images/
+
   fonts:
     - family: Nunito
       fonts:
